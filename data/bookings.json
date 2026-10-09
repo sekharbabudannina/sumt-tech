@@ -1,0 +1,19 @@
+[
+  {
+    "id": "SUMT-BK-05475178",
+    "customerName": "Suresh Varma",
+    "mobileNumber": "9398808876",
+    "whatsappNumber": "9398808876",
+    "email": "",
+    "deviceType": "Laptop",
+    "brandModel": "Dell Inspiron 15",
+    "serviceRequired": "RAM and SSD Upgrades",
+    "problemDescription": "Laptop is taking 5 minutes to start, want to install 512GB SSD and 8GB RAM upgrade",
+    "preferredDate": "2026-10-10",
+    "preferredTime": "Morning (10:00 AM – 1:00 PM)",
+    "serviceLocation": "MVP Colony, Visakhapatnam",
+    "additionalNotes": "",
+    "status": "Received - Pending Confirmation",
+    "createdAt": "2026-10-09T07:23:00.547Z"
+  }
+]
